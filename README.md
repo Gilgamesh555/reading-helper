@@ -9,4 +9,6 @@ So with the help of reading helper GUI and features you can have all that things
 The goal of Reading Helper is to manage your books and all that essential information in one place.
 
 CURRENT STATE: ON PROGRESS
-ANY IDEAS OR CONTRIBUTIONS ARE WELCOME
+ANY IDEAS, SUGGESTIONS OR CONTRIBUTIONS ARE WELCOME
+
+If you want to check the current roadmap check the current [ROADMAP.md](ROADMAP.md).
